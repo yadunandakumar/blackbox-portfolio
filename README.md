@@ -54,5 +54,5 @@ A modern cybersecurity portfolio website built to showcase my projects, technica
 Cybersecurity Student | Aspiring Security Professional
 
 - GitHub: https://github.com/yadunandakumar
-- LinkedIn: YOUR_LINKEDIN_URL
-- TryHackMe: YOUR_TRYHACKME_URL
+- LinkedIn: https://www.linkedin.com/in/yadunandakumar-murari-cybersecurity-intern/
+- TryHackMe: https://tryhackme.com/p/yadunandakumarmurari?tab=completed-rooms

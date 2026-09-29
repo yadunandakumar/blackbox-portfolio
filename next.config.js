@@ -5,8 +5,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/blackbox-portfolio' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/blackbox-portfolio/' : '',
 };
 
 module.exports = nextConfig;

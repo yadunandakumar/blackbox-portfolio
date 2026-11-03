@@ -32,7 +32,7 @@ export const PROFILE = {
     resume: '/assets/Yadunanda_Kumar_Murari_Resume.pdf',
   },
   summary:
-    'Second-year Cyber Security student driven by curiosity about system internals and real-world threat mitigation. Actively developing an "attacker\'s mindset" through CTF challenges and labs to better understand vulnerabilities. Disciplined learner seeking internship opportunities in software development or cybersecurity to apply skills in Java, SQL, and secure system design.',
+    'Third-year Cyber Security student driven by curiosity about system internals and real-world threat mitigation. Actively developing an "attacker\'s mindset" through CTF challenges and labs to better understand vulnerabilities. Disciplined learner seeking internship opportunities in software development or cybersecurity to apply skills in Java, SQL, and secure system design.',
 };
 
 export const SKILLS = {
